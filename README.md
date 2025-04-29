@@ -7,7 +7,7 @@
 - 📫 How to reach me: edwinkng@majuperkasa.com
 - ⚡ Fun fact: I am an engineer who likes to learn anything about technology and money; While unable to focus in between: business, knowledge and relationship between humans
 
-	<!
+<!
 - 💬 Ask me about ...
 - 😄 Pronouns: ...
 	>
